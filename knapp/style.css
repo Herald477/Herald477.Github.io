@@ -7,3 +7,13 @@ h2 {
     position: absolute;
     left: 43%;
 }
+.main {
+    background-color: blue ;
+}
+p {
+    padding: 40px;
+}
+button {
+    width: 60px;
+    padding-top: 20px;
+}
