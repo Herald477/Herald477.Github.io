@@ -1,0 +1,9 @@
+body {
+    background-color: aquamarine;
+    color: coral;
+}
+h2 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    position: absolute;
+    left: 43%;
+}
