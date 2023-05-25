@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: linear-gradient(to top, #0aa3c9, #fff);
+    background-repeat: no-repeat;
+}
+
+img {
+    height: 20vh;
+}
+
+.main_div {
+    margin: 10%;
+    width: 80%;
+    height: 500px;
+    background-color: #fff;
+    border-radius: 20px;
+}
+.inner_div {
+    margin: 20px;
+}
+h2 {
+    margin: 20px;
+}
