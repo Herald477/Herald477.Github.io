@@ -1,0 +1,27 @@
+body {
+    background-image: linear-gradient(to top, #f6ca7fd7, #70faf1);
+}
+
+.main_div {
+    margin: 10%;
+    width: 80%;
+    height: 550px;
+    background-image: linear-gradient(to top, hsla(57, 76%, 69%, 0.473), #61bff9a8);
+    border-radius: 80px;
+}
+
+.inner_div {
+    margin: 60px;
+    height: 10%;
+}
+
+img {
+    height: 40vh;
+    border-radius: 40px;
+    width: 620px;
+}
+.cream {
+    height: 45vh;
+    width: 350px;
+    margin-left: 5%;
+}
